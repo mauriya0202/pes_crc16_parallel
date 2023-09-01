@@ -1,5 +1,5 @@
 //
-module CRC_16_parallel_test; 
+module pes_crc16_parallel_test; 
 reg clk; 
 reg rst; 
 reg load; 
@@ -23,5 +23,5 @@ end
 always #(clk_period/2) clk = ~clk; 
 always #(clk_period) crc_in[7:0] = ~crc_in[7:0]; //
 //
-CRC_16_parallel u1(.clk(clk), .rst(rst), .load(load), .d_finish(d_finish), .crc_in(crc_in), .crc_out(crc_out)); 
+pes_crc16_parallel u1(.clk(clk), .rst(rst), .load(load), .d_finish(d_finish), .crc_in(crc_in), .crc_out(crc_out)); 
 endmodule 
