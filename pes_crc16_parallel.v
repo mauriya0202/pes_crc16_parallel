@@ -1,4 +1,5 @@
-module CRC_16_parallel(clk,rst,load,d_finish,crc_in,crc_out); 
+module pes_crc16_parallel
+(clk,rst,load,d_finish,crc_in,crc_out); 
 
 input clk; 
 input rst; 
