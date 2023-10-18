@@ -58,7 +58,7 @@ case(state) //
  end 
 endcase 
 end 
-always@(posedge clk or negedge rst)//
+always@(posedge clk )//
  if(rst) 
  begin 
  crc_reg[15:0] <= 16'b0000_0000_0000_0000;//
