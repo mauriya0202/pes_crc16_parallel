@@ -11,5 +11,6 @@
 
 ## Gate Level Simulation
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/93771bd3-84ec-4442-b8fc-0af9bde286cd)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/79a6db78-82e7-4026-a5d5-2fdd5c253f26)
 
 
