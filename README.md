@@ -1,5 +1,7 @@
 # pes_crc16_parallel
 
+A 16-bit parallel CRC (Cyclic Redundancy Check) is a method of error-checking used in digital communication systems and data storage. CRC is a widely used technique for detecting errors in data transmission and storage by appending a checksum to the data and verifying it at the receiving end.
+
 ## Iverilog and GTK Wave
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/4de26572-d10a-4b74-909b-fba5683d56be)
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/f5b38f42-47e5-4895-be55-9736122fcec8)
