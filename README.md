@@ -1,3 +1,5 @@
+### Note: An alternative IEEE 754 Floating Multiplier has also been provided
+
 # pes_crc16_parallel
 
 A 16-bit parallel CRC (Cyclic Redundancy Check) is a method of error-checking used in digital communication systems and data storage. CRC is a widely used technique for detecting errors in data transmission and storage by appending a checksum to the data and verifying it at the receiving end.
@@ -23,7 +25,8 @@ The results for the multiplier are as follows
 
 # pes_fmul
 
-IEEE 754 Floating Point Multiplier (32 bit)
+IEEE 754 Floating Point Multiplier (32 bit). 
+The code and test bench for the multiplier has also been uploaded.
 
 ## Yosys
 
