@@ -19,7 +19,7 @@ A 16-bit parallel CRC (Cyclic Redundancy Check) is a method of error-checking us
 
  ### This is a opensource code that was used but the GLS failed. 
  
- # A alternative design, IEEE 754 Floating Point Multiplier.
+ # An alternative design, IEEE 754 Floating Point Multiplier.
 
 The results for the multiplier are as follows
 
