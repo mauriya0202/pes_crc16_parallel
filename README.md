@@ -29,6 +29,7 @@ IEEE 754 Floating Point Multiplier (32 bit).
 The code and test bench for the multiplier has also been uploaded.
 
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/31ab4ecd-66c0-40f0-9ed9-84fba01f6fa0)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/b3f184f8-9fd9-4c6a-b25f-1ebd231f4d87)
 
 
 ## Yosys
