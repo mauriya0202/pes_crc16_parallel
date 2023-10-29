@@ -60,4 +60,11 @@ We can see that the gate level simulation matches the behavioral simulation
 
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/5696efa4-0641-49fa-9ff0-7a953380a9b9)
 
+# Floorplan
+
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/768be5df-14fd-47c3-b879-8300110516f7)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/54be2ef3-0f2c-40b7-82ea-b87576df5ea4)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/d8583b80-8de3-4c1b-b2af-8c5e3c245d72)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/93718287-0d4f-49bc-9da0-66aa947a03ce)
+
 
