@@ -56,3 +56,8 @@ The code and test bench for the multiplier has also been uploaded.
 
 We can see that the gate level simulation matches the behavioral simulation
 
+# Synthesis
+
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/5696efa4-0641-49fa-9ff0-7a953380a9b9)
+
+
