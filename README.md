@@ -90,5 +90,6 @@ We can see that the gate level simulation matches the behavioral simulation
 # Routing
 
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/ac36b109-1da7-4a9b-b338-8f7605432e5a)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/69f17818-29a4-41d9-bf64-975d29a6c137)
 
 
