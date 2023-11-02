@@ -79,8 +79,8 @@ We can see that the gate level simulation matches the behavioral simulation
 
 # STA
 
-![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/c14c88fd-3092-4487-a130-8d8bb85d8b30)
-![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/a3256401-4bf2-4f0e-919a-bbb3dd3da9ca)
-![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/873ee609-683a-449d-97bd-daef40ad46a6)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/59f9f18a-e86b-4046-a8c8-8563f26030b6)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/58406d20-6f25-47ce-8dc1-031c5f1bacb1)
+
 
 
