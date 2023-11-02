@@ -67,9 +67,20 @@ We can see that the gate level simulation matches the behavioral simulation
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/d8583b80-8de3-4c1b-b2af-8c5e3c245d72)
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/93718287-0d4f-49bc-9da0-66aa947a03ce)
 
+
+
+
 # Placement
 
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/6b8e6d4c-3a21-4bae-9b6c-96230b8d5e85)
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/7162c80e-0078-4855-b62f-dc899cdbafd6)
 ![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/c9c6f9b5-8b8c-4a0c-9b55-4fcd7bd4ee6f)
+
+
+# STA
+
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/c14c88fd-3092-4487-a130-8d8bb85d8b30)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/a3256401-4bf2-4f0e-919a-bbb3dd3da9ca)
+![image](https://github.com/mauriya0202/pes_crc16_parallel/assets/112739882/873ee609-683a-449d-97bd-daef40ad46a6)
+
 
